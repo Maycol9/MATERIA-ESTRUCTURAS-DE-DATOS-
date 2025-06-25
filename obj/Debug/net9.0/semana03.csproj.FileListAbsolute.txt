@@ -12,3 +12,4 @@ C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana0
 C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana03\obj\Debug\net9.0\semana03.pdb
 C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana03\obj\Debug\net9.0\semana03.genruntimeconfig.cache
 C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana03\obj\Debug\net9.0\ref\semana03.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana03\obj\Debug\net9.0\semana03.sourcelink.json
