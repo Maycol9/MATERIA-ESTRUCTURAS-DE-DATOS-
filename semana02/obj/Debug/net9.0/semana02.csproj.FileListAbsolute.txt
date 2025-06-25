@@ -1,0 +1,14 @@
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\bin\Debug\net9.0\semana02.exe
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\bin\Debug\net9.0\semana02.deps.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\bin\Debug\net9.0\semana02.runtimeconfig.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\bin\Debug\net9.0\semana02.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\bin\Debug\net9.0\semana02.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\obj\Debug\net9.0\semana02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\obj\Debug\net9.0\semana02.AssemblyInfoInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\obj\Debug\net9.0\semana02.AssemblyInfo.cs
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\obj\Debug\net9.0\semana02.csproj.CoreCompileInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\obj\Debug\net9.0\semana02.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\obj\Debug\net9.0\refint\semana02.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\obj\Debug\net9.0\semana02.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\obj\Debug\net9.0\semana02.genruntimeconfig.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana02\obj\Debug\net9.0\ref\semana02.dll

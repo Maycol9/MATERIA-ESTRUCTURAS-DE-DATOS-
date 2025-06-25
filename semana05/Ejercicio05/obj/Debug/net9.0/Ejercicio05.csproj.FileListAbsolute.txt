@@ -1,0 +1,14 @@
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\bin\Debug\net9.0\Ejercicio05.exe
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\bin\Debug\net9.0\Ejercicio05.deps.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\bin\Debug\net9.0\Ejercicio05.runtimeconfig.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\bin\Debug\net9.0\Ejercicio05.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\bin\Debug\net9.0\Ejercicio05.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\obj\Debug\net9.0\Ejercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\obj\Debug\net9.0\Ejercicio05.AssemblyInfoInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\obj\Debug\net9.0\Ejercicio05.AssemblyInfo.cs
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\obj\Debug\net9.0\Ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\obj\Debug\net9.0\Ejercicio05.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\obj\Debug\net9.0\refint\Ejercicio05.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\obj\Debug\net9.0\Ejercicio05.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\obj\Debug\net9.0\Ejercicio05.genruntimeconfig.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana05\Ejercicio05\obj\Debug\net9.0\ref\Ejercicio05.dll
