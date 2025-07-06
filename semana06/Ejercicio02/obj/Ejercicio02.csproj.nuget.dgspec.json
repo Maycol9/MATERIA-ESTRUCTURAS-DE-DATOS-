@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio2\\Ejercicio2.csproj": {}
+    "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio02\\Ejercicio02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio2\\Ejercicio2.csproj": {
+    "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio02\\Ejercicio02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio2\\Ejercicio2.csproj",
-        "projectName": "Ejercicio2",
-        "projectPath": "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio2\\Ejercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio02\\Ejercicio02.csproj",
+        "projectName": "Ejercicio02",
+        "projectPath": "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio02\\Ejercicio02.csproj",
         "packagesPath": "C:\\Users\\Maycol Perez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio2\\obj\\",
+        "outputPath": "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana06\\Ejercicio02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maycol Perez\\AppData\\Roaming\\NuGet\\NuGet.Config"
