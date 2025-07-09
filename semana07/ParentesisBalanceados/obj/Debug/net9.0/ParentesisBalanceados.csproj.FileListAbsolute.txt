@@ -1,0 +1,15 @@
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.exe
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.deps.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.runtimeconfig.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.AssemblyInfoInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.AssemblyInfo.cs
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.csproj.CoreCompileInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.sourcelink.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\refint\ParentesisBalanceados.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.genruntimeconfig.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\ParentesisBalanceados\obj\Debug\net9.0\ref\ParentesisBalanceados.dll

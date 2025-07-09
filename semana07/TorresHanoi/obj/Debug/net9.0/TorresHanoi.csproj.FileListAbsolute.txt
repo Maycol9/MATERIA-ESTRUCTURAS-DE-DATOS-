@@ -1,0 +1,15 @@
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\bin\Debug\net9.0\TorresHanoi.exe
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\bin\Debug\net9.0\TorresHanoi.deps.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\bin\Debug\net9.0\TorresHanoi.runtimeconfig.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\bin\Debug\net9.0\TorresHanoi.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\bin\Debug\net9.0\TorresHanoi.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\TorresHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\TorresHanoi.AssemblyInfoInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\TorresHanoi.AssemblyInfo.cs
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\TorresHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\TorresHanoi.sourcelink.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\TorresHanoi.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\refint\TorresHanoi.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\TorresHanoi.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\TorresHanoi.genruntimeconfig.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\semana07\TorresHanoi\obj\Debug\net9.0\ref\TorresHanoi.dll
