@@ -1,0 +1,15 @@
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\bin\Debug\net9.0\Tarea10.exe
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\bin\Debug\net9.0\Tarea10.deps.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\bin\Debug\net9.0\Tarea10.runtimeconfig.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\bin\Debug\net9.0\Tarea10.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\bin\Debug\net9.0\Tarea10.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\Tarea10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\Tarea10.AssemblyInfoInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\Tarea10.AssemblyInfo.cs
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\Tarea10.csproj.CoreCompileInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\Tarea10.sourcelink.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\Tarea10.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\refint\Tarea10.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\Tarea10.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\Tarea10.genruntimeconfig.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana10\Tarea10\obj\Debug\net9.0\ref\Tarea10.dll
