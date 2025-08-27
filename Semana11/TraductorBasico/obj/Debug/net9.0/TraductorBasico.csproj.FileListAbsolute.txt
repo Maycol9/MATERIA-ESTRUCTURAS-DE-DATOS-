@@ -1,0 +1,15 @@
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\bin\Debug\net9.0\TraductorBasico.exe
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\bin\Debug\net9.0\TraductorBasico.deps.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\bin\Debug\net9.0\TraductorBasico.runtimeconfig.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\bin\Debug\net9.0\TraductorBasico.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\bin\Debug\net9.0\TraductorBasico.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\TraductorBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\TraductorBasico.AssemblyInfoInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\TraductorBasico.AssemblyInfo.cs
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\TraductorBasico.csproj.CoreCompileInputs.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\TraductorBasico.sourcelink.json
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\TraductorBasico.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\refint\TraductorBasico.dll
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\TraductorBasico.pdb
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\TraductorBasico.genruntimeconfig.cache
+C:\Users\Maycol Perez\Documents\Visual Studio\Estructura de Datos\Tareas\Semana11\TraductorBasico\obj\Debug\net9.0\ref\TraductorBasico.dll
